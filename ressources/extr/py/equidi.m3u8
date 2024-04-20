@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_aud",NAME="audio_0",DEFAULT=YES,LANGUAGE="fra",URI="https://equidia-live2-b29-cdn.hexaglobe.net/10ec058ac1fc6081ece9b44f19b052d0/66234bab/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/slot09_audio_french.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_aud",NAME="audio_0",DEFAULT=YES,LANGUAGE="fra",URI="https://equidia-live2-b31-cdn.hexaglobe.net/58aa707c8e56eebd43a02521f909c91e/662383e2/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/slot09_audio_french.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=2270400,RESOLUTION=1280x720,AUDIO="group_aud"
-https://equidia-live2-b29-cdn.hexaglobe.net/10ec058ac1fc6081ece9b44f19b052d0/66234bab/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/slot09_720p.m3u8
+https://equidia-live2-b31-cdn.hexaglobe.net/58aa707c8e56eebd43a02521f909c91e/662383e2/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/slot09_720p.m3u8
