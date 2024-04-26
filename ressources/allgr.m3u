@@ -124,7 +124,7 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",TF1
-404: Not Found
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxODUuMzEuNDAuMjMiLCJjbWNkIjoiIiwiZXhwIjoxNzE0MTcxMDAzLCJnaWQiOiIxYzIzODgxZi1mNWRkLTQ2MDEtOGZiYS0xZTkyMWE4MjY1MzkiLCJpYXQiOjE3MTQxNTY2MDMsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MjAwMDAwMCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiIxYzIzODgxZi1mNWRkLTQ2MDEtOGZiYS0xZTkyMWE4MjY1MzkifQ.PSmTG8pkM542gZ6yuaQgAyZcEOZZs-tuswB_nmYnKY4/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",M6 (out)
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="|FR|🇫🇷 GÉNÉRALISTE",FRANCE 2
@@ -820,7 +820,7 @@ https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="|TR|🇹🇷 GENEL",NOW
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="|TR|🇹🇷 GENEL",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=MBwZErQ9-UVPIQTlM9iibQ&e=1713910869
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=RQhnzhUQ9lSaECAwppeG4g&e=1714170182
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR|🇹🇷 GENEL",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR|🇹🇷 GENEL",TV8
@@ -858,7 +858,7 @@ http://canli.haber365.com.tr/tr/showtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR|🇹🇷 GENEL",SHOW (backup)
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="|TR|🇹🇷 GENEL",NOW (backup)
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=MBwZErQ9-UVPIQTlM9iibQ&e=1713910869
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=RQhnzhUQ9lSaECAwppeG4g&e=1714170182
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="|TR|🇹🇷 GENEL",NOW (backup)
 https://new.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="|TR|🇹🇷 GENEL",NOW (backup)
@@ -1107,8 +1107,6 @@ http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jqzzby7/milyontv.png" group-title="|TR|🇹🇷 MÜZİK",MİLYON TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jqzzby7/milyontv.png" group-title="|TR|🇹🇷 MÜZİK",MİLYON TV
-https://pull1-poc.blutv.com/live/2ZJ6X7A9/2ZJ6X7A9_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="|TR|🇹🇷 MÜZİK",NUMBER ONE TÜRK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="|TR|🇹🇷 MÜZİK",NUMBER ONE TÜRK
@@ -1715,6 +1713,8 @@ https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3
 https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TthjhJ6/solmusica.png" group-title="|ES|🇪🇸 ESPAÑA",SOL MÙSICA
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GsLm5g5/trece.png" group-title="|ES|🇪🇸 ESPAÑA",TRECE
+https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GsLm5g5/trece.png" group-title="|ES|🇪🇸 ESPAÑA",TRECE INT
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bKLFcnD/a3cine.png" group-title="|ES|🇪🇸 ESPAÑA",ATRES SERIES
